@@ -11,7 +11,7 @@
 6. [Questions](#questions)
 <br><br>
 ## Installation
-### Live Heroku site can be found [here](https://aqueous-tundra-97926.herokuapp.com/). This application can also be ran locally by running npm i into your terminal to install depndancies. Next run npm run develop 
+### Live Heroku site can be found [here](https://aqueous-tundra-97926.herokuapp.com/). This application can also be ran locally by running ```npm i``` into your terminal to install depndancies. Next run ```npm run develop``` to start the server. 
 <br><br>
 ## Usage
 ### To use the application, simply search for a book in the search bar to see your results. If you login, you have the ability to save your searched books for viewing in the "see your books" tab. 
